@@ -1,4 +1,4 @@
-![canny](https://github.com/yoheshkumar/EDGE-DETECTION/assets/119393568/fd85a9d0-d775-4101-8b73-7cba130230c2)# EDGE-DETECTION
+# EDGE-DETECTION
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
