@@ -33,7 +33,7 @@ Register no  : 212222240118
 import cv2
 import matplotlib.pyplot as plt
 
-img=cv2.imread("sanjay.jpg",0)
+img=cv2.imread("yk.jpg",0)
 gray=cv2.cvtColor(img,cv2.COLOR_GRAY2RGB)
 gray = cv2.GaussianBlur(gray,(3,3),0)
 ```
